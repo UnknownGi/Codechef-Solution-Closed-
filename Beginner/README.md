@@ -25,6 +25,12 @@ Beginner programs revise you from the basics of i/o to mathematical problems tha
 15. Snape and Ladder
 16. Chef and Remissness
 17. Sums of Digits
+18. Find Remainder
+19. Lucky Four
+20. Three Way Communication
+21. First and Last Digit
+22. Number Mirror
+23. Reverse the Number
 
 ## Solving Problems
 
