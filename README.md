@@ -28,8 +28,8 @@ The following repository contains the following at the moment:
 
 ## Recent Commit Updates
 
-v1.0.0: Added Beginner Q: 1-17
-v1.0.1: Added Beginner Q: 18-23
+- v1.0.0: Added Beginner Q: 1-17
+- v1.0.1: Added Beginner Q: 18-23
 
 ## Contact
 
