@@ -19,7 +19,7 @@ Among the most popular languages used are:
 
 ## What am i Posting Here?
 
-I am posting my accepted solution sets for each program that i write. I will start of with beginner and move along to challenges that codechef posts along the way.
+I am posting my accepted solution sets for each program that i write in C++, except for some, those will in Java. I will start of with beginner and move along to challenges that codechef posts along the way.
 
 The following repository contains the following at the moment: 
 
