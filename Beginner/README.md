@@ -47,6 +47,6 @@ Beginner programs revise you from the basics of i/o to mathematical problems tha
 
 ## Solving Problems
 
-A solution can be solved in many ways, look for a one with minimum time and space complexity of trade off when necessary. Mastering of basic algorithms, greedy approach, dynamic programming etc and STL is a must for competitive programming.
+A solution can be solved in many ways, look for a one with minimum time and space complexity or trade off when necessary. Mastering of basic algorithms, greedy approach, dynamic programming etc and STL is a must for competitive programming.
 
-Note: You should save time when necessary
+Note: You should save time when necessary, and avoid from TLE
