@@ -23,13 +23,14 @@ I am posting my accepted solution sets for each program that i write in C++, exc
 
 The following repository contains the following at the moment: 
 
-- Beginner [Q: 1-23]
+- Beginner [Q: 1-36]
 - More to come as time gradually passes
 
 ## Recent Commit Updates
 
 - v1.0.0: Added Beginner Q: 1-17
 - v1.0.1: Added Beginner Q: 18-23
+- v1.0.2: Added Beginner Q: 24-36
 
 ## Contact
 
