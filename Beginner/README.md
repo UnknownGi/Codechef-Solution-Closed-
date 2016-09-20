@@ -31,6 +31,19 @@ Beginner programs revise you from the basics of i/o to mathematical problems tha
 21. First and Last Digit
 22. Number Mirror
 23. Reverse the Number
+24. Finding Square Root
+25. Second Largest Number
+26. Small Factorial
+27. The Smallest Pair
+28. Servant
+29. Tanu and Head-bob
+30. Smallest Number of Notes
+31. Fit Squares in Triangle
+32. Valid Triangle
+33. Primality Test
+34. Greedy Puppy
+35. The Block Game
+36. Id and Ship
 
 ## Solving Problems
 
