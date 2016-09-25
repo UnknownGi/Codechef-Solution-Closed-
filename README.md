@@ -23,7 +23,7 @@ I am posting my accepted solution sets for each program that i write in C++, exc
 
 The following repository contains the following at the moment: 
 
-- Beginner [Q: 1-36]
+- Beginner [Q: 1-50]
 - More to come as time gradually passes
 
 ## Recent Commit Updates
