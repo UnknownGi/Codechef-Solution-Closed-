@@ -31,6 +31,7 @@ The following repository contains the following at the moment:
 - v1.0.0: Added Beginner Q: 1-17
 - v1.0.1: Added Beginner Q: 18-23
 - v1.0.2: Added Beginner Q: 24-36
+- v1.0.3: Added Beginner Q: 37-50
 
 ## Contact
 
