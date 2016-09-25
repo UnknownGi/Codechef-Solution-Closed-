@@ -44,6 +44,20 @@ Beginner programs revise you from the basics of i/o to mathematical problems tha
 34. Greedy Puppy
 35. The Block Game
 36. Id and Ship
+37. Total Expenses
+38. GCD and LCM
+39. Chef and Operators
+40. Gross Salary
+41. Grade the Steel
+42. Sum of Palindromic Numbers
+43. Chef and Wildcard Matching
+44. Chef and Two Strings
+45. Piece of Cake
+46. Mahasena
+47. Minimum Maximum
+48. Chef and Fruits
+49. Chef and Dolls
+50. Farmer and his Plot
 
 ## Solving Problems
 
