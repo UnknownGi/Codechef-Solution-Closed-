@@ -58,6 +58,11 @@ Beginner programs revise you from the basics of i/o to mathematical problems tha
 48. Chef and Fruits
 49. Chef and Dolls
 50. Farmer and his Plot
+51. Cops and Theif Devu
+52. Tracked and Ignored
+53. Good Joke!
+54. **To be uploaded**
+55. Chef and his Sequence
 
 ## Solving Problems
 
