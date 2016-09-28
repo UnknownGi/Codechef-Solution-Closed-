@@ -61,8 +61,11 @@ Beginner programs revise you from the basics of i/o to mathematical problems tha
 51. Cops and Theif Devu
 52. Tracked and Ignored
 53. Good Joke!
-54. **To be uploaded**
+54. Devu and Grapes
 55. Chef and his Sequence
+56. Malvika is Peculiar about Color of Balloons
+57.  **To be uploaded**
+58. Brackets 
 
 ## Solving Problems
 
