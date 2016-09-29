@@ -23,7 +23,7 @@ I am posting my accepted solution sets for each program that i write in C++, exc
 
 The following repository contains the following at the moment: 
 
-- Beginner [Q: 1-58] , 57 Missing to be uploaded!
+- Beginner [Q: 1-65] , 57, 59 Missing to be uploaded!
 - More to come as time gradually passes
 
 ## Recent Commit Updates
@@ -34,6 +34,7 @@ The following repository contains the following at the moment:
 - v1.0.3: Added Beginner Q: 37-50
 - v1.0.4: Added Beginner Q: 51-53 & 55
 - v1.0.5: Added Beginner Q: 54 56 58
+- v1.0.6: Added Beginner Q: 61-65
 
 ## Contact
 
