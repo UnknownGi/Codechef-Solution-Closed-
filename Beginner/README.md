@@ -66,6 +66,13 @@ Beginner programs revise you from the basics of i/o to mathematical problems tha
 56. Malvika is Peculiar about Color of Balloons
 57.  **To be uploaded**
 58. Brackets 
+59.  **To be uploaded**
+60.  **To be uploaded**
+61. Forgotten Language
+62. Coins and Triangle
+63. Gregorian Calendar
+64. Count Subarrays
+65. Movie Weekend
 
 ## Solving Problems
 
