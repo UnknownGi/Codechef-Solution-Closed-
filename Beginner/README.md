@@ -64,10 +64,10 @@ Beginner programs revise you from the basics of i/o to mathematical problems tha
 54. Devu and Grapes
 55. Chef and his Sequence
 56. Malvika is Peculiar about Color of Balloons
-57.  **To be uploaded**
+57. Cooking Machine
 58. Brackets 
-59.  **To be uploaded**
-60.  **To be uploaded**
+59. Chef and Subarrays
+60. Chef and String
 61. Forgotten Language
 62. Coins and Triangle
 63. Gregorian Calendar
