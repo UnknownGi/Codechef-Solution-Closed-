@@ -1,6 +1,6 @@
 # Code Chef Solution Set
 
-## Repository Version: v1.0.7
+## Repository Version: v1.0.8
 
 ## What is Codechef? 
 
@@ -25,7 +25,7 @@ I am posting my accepted solution sets for each program that i write in C++, exc
 
 The following repository contains the following at the moment: 
 
-- Beginner [Q: 1-65]!
+- Beginner [Q: 1-70]!
 - More to come as time gradually passes
 
 ## Recent Commit Updates
@@ -38,6 +38,7 @@ The following repository contains the following at the moment:
 - v1.0.5: Added Beginner Q: 54 56 58
 - v1.0.6: Added Beginner Q: 61-65
 - v1.0.7: Added Beginner Q: 57 59 60-65
+- v1.0.8: Added Beginner Q: 66-70
 
 ## Contact
 
