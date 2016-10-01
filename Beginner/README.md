@@ -73,6 +73,11 @@ Beginner programs revise you from the basics of i/o to mathematical problems tha
 63. Gregorian Calendar
 64. Count Subarrays
 65. Movie Weekend
+66. Who Dares to be a Millionaire
+67. Chef and Coloring
+68. Count Steps in Matrix
+69. Palindromic Strings
+70. Simple Statistics
 
 ## Solving Problems
 
