@@ -1,0 +1,11 @@
+5
+abc
+abc
+a
+b
+abba
+baab
+abc
+def
+abcdefghijklmno
+pqrstuvwxysassz
