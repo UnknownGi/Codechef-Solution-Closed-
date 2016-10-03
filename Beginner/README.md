@@ -78,6 +78,12 @@ Beginner programs revise you from the basics of i/o to mathematical problems tha
 68. Count Steps in Matrix
 69. Palindromic Strings
 70. Simple Statistics
+71. Kitchen Timetable
+72. Alteration Subarray Prefix
+73. Akhil and Colored Balls
+74. Sticks
+75. One More Weird Game
+76. Puppy and Sum
 
 ## Solving Problems
 
