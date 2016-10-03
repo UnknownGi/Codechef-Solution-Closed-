@@ -84,6 +84,13 @@ Beginner programs revise you from the basics of i/o to mathematical problems tha
 74. Sticks
 75. One More Weird Game
 76. Puppy and Sum
+77. ***to be uploaded***
+78. Collisions
+79. Devu and Friendship Testing
+80. Make XOR Zero
+81. Chef and Chocolate
+82. Strange Operations
+83. Studying Alphabets
 
 ## Solving Problems
 
