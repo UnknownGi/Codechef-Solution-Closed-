@@ -19,12 +19,12 @@ int main ( ) {
 	
 	b[n-1] = a[n-1];
 	REPNRE(i,n-1,0) {
-		for ( int j=i-1; j>=0 && j>=i-k; --j ) {
+		for ( int j=i-1; j>=0 && a[j]>=a[i]-k; --j ) {
 			int x, y;
 			x = b[i];
 			y = a[j];
 			
-			int p = x*y;		
+			int p = (x*y)%modulo;		
 			if ( p<b[j] ) b[j]=p;
 		}
 	}
