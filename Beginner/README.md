@@ -97,6 +97,13 @@ Beginner programs revise you from the basics of i/o to mathematical problems tha
 87. Andrash and Stipend
 88. Chef and Table Tennis
 89. Chef and Way
+90. Entrance Exam
+91. Lazy Jem
+92. Digits of a Number
+93. Tweedle-Dee and Tweedle-Dum
+94. Chef-Detective
+95. Chef and Inequality
+96. Rupsa and the Game
 
 ## Solving Problems
 
