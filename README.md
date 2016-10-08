@@ -1,7 +1,8 @@
 # Code Chef Solution Set
 
-## Repository Version: v1.0.12
+## Repository Version: v1.1.0
 ### Beginner Finished (7th October 2016)
+### Easy Started (8th October 2016)
 
 ## What is Codechef? 
 
@@ -22,12 +23,14 @@ Among the most popular languages used are:
 
 ## What am i Posting Here?
 
-I am posting my accepted solution sets for each program that i write in C++, except for some, those will in Java. I will start of with beginner and move along to challenges that codechef posts along the way.
+I am posting my accepted solution sets for each program that i write in ***C++***, except for some, those will in Java. I will start of with beginner and move along to challenges that codechef posts along the way.
 
 The following repository contains the following at the moment: 
 
 - Beginner [Q: 1-96]! 
 - Beginner Missing: [Q: **NONE**]! 
+- Easy [Q: 1-5]!
+- Easy Missing: [Q: **NONE**]!
 - More to come as time gradually passes
 
 ## Recent Commit Updates
@@ -45,6 +48,7 @@ The following repository contains the following at the moment:
 - v1.0.10: Added Beginner Q: 78-83
 - v1.0.11 Added Beginner Q: 77 84-89
 - v1.0.12 Added Beginner Q: 90-96
+- v1.1.0 Added Easy Q:1-5
 
 ## Contact
 
