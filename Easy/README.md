@@ -16,3 +16,4 @@ Easy programs revise you with dynamic data structures, naive algorithm implement
 6. Nuclear Reactor
 7. Coin Flip
 8. A Very Easy Problem
+9. 
