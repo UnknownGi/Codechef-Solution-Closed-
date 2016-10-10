@@ -16,4 +16,12 @@ Easy programs revise you with dynamic data structures, naive algorithm implement
 6. Nuclear Reactor
 7. Coin Flip
 8. A Very Easy Problem
-9. 
+9. Carvans
+10. Lapindromes
+11. Buying Sweets
+12. Jewel and Stones
+13. Little Elephant and Permutations
+14. Discrepencies in the Voters
+15. The Best Box
+16. Number Game Revisited
+17. Chef and Feedback
