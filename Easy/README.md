@@ -25,3 +25,12 @@ Easy programs revise you with dynamic data structures, naive algorithm implement
 15. The Best Box
 16. Number Game Revisited
 17. Chef and Feedback
+18. GCD2 ***TO BE UPLOADED***
+19. Permutation Cycles
+20. Chef and the Right Triangle
+21. Decreasing String
+22. Arranging Cup-cakes
+23. Maximun Weight Difference
+24. Dividing Stamps
+25. Subtraction Game
+26. Little Elephant and Bombs
