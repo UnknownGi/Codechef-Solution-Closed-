@@ -34,3 +34,12 @@ Easy programs revise you with dynamic data structures, naive algorithm implement
 24. Dividing Stamps
 25. Subtraction Game
 26. Little Elephant and Bombs
+27. Splitting Candies
+28. Your Name is Mine
+29. Farmer Fed
+30. Chef-jumping
+31. Open the Dragon Scroll
+32. Copy-Paste
+33. Tourist Translators
+34. Divide the Cake
+35. Magic Pairs
