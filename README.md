@@ -1,6 +1,6 @@
 # Code Chef Solution Set
 
-## Repository Version: v1.1.3
+## Repository Version: v1.1.4
 ### Beginner Finished (7th October 2016)
 ### Easy Started (8th October 2016)
 
@@ -29,7 +29,7 @@ The following repository contains the following at the moment:
 
 - Beginner [Q: 1-96]! 
 - Beginner Missing: [Q: **NONE**]! 
-- Easy [Q: 1-17, 19-26]!
+- Easy [Q: 1-17, 19-35]!
 - Easy Missing: [Q: **18**]!
 - More to come as time gradually passes
 
@@ -48,11 +48,12 @@ The following repository contains the following at the moment:
 - v1.0.10: Added Beginner Q: 78-83
 - v1.0.11 Added Beginner Q: 77 84-89
 - v1.0.12 Added Beginner Q: 90-96
-- v1.1.0 Added Easy Q:1-5
-- v1.1.1 Added Easy Q:6-8
-- v1.1.2 Added Easy Q:9-17
-- v1.1.3 Added Easy Q:19-26
-
+- v1.1.0 Added Easy Q: 1-5
+- v1.1.1 Added Easy Q: 6-8
+- v1.1.2 Added Easy Q: 9-17
+- v1.1.3 Added Easy Q: 19-26
+- v1.1.4 Added Easy Q: 27-35
+-
 ## Contact
 
 For queries about competitive programming or about a particular question, contact me on:
