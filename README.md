@@ -53,7 +53,7 @@ The following repository contains the following at the moment:
 - v1.1.2 Added Easy Q: 9-17
 - v1.1.3 Added Easy Q: 19-26
 - v1.1.4 Added Easy Q: 27-35
--
+
 ## Contact
 
 For queries about competitive programming or about a particular question, contact me on:
