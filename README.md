@@ -1,5 +1,7 @@
 # Code Chef Solution Set
 
+## Repository Closed: Everything Shifted to: https://github.com/danz1ka/Competitive-Programming
+
 ## Repository Version: v1.1.4
 ### Beginner Finished (7th October 2016)
 ### Easy Started (8th October 2016)
